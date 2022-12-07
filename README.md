@@ -49,7 +49,8 @@ Now navigate to cloned repository and follow the same steps as given for zip fil
 ## Development
 
 Want to contribute? Great!
-Make a change in your file and instantaneously see your updates!
+Make a change in your file and create a pull request.
+We will verify the change and accept the pull request.
 
 ## Project Links
 - Deployed django application (https://gatewayyyy.herokuapp.com/)
